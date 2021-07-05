@@ -5,3 +5,5 @@
 
 - 🔭 I’m currently working on FrontEnd.
 - 📫 How to reach me: github.com/FrankFan
+
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=FrankFan.FrankFan)](https://github.com/FrankFan)
